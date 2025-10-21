@@ -1,3 +1,5 @@
+This repository contains the codes necessary to reproduce the work "Network modelling of avalanche dynamics in AghBN memristor", Vivek Dey et al 2025 Nano Ex. 6 035010.
+
 The raw_data_1 and raw_data_2 contains the raw current time series generated using the codes. 
 To generate these data one needs to keep the gen_points.py, functions.py, main.py and runner.py in the same directory. The parameters can be set in the runner.py and run this file to generate the network current outputs.
 Some part of the code is adapted from "Joel Hochstetter, Ruomin Zhu, Alon Loeffler, Adrian Diaz-Alvarez, Tomonobu Nakayama, Zdenka Kuncic. Avalanches and edge-of-chaos learning in neuromorphic nanowire networks. Nature Communications 12, 4008 (2021). https://doi.org/10.1038/s41467-021-24260-z"
