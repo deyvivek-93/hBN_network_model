@@ -1,4 +1,4 @@
-This repository contains the codes necessary to reproduce the work "Network modelling of avalanche dynamics in AghBN memristor", Vivek Dey et al 2025 Nano Ex. 6 035010.
+This repository contains the codes necessary to reproduce the work "Network modelling of avalanche dynamics in AghBN memristor", Vivek Dey et al 2025 Nano Ex. 6 035010. https://doi.org/10.1088/2632-959X/adf7c4
 
 The raw_data_1 and raw_data_2 contains the raw current time series generated using the codes. 
 To generate these data one needs to keep the gen_points.py, functions.py, main.py and runner.py in the same directory. The parameters can be set in the runner.py and run this file to generate the network current outputs.
